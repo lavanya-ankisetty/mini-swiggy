@@ -26,7 +26,7 @@ Backend: Java, Spring Boot
 
 Build Tool: Maven
 
-Database: (Add your DB here, e.g., MySQL or H2 if you are using)
+Database: MySQL
 
 📦 Project Setup Instructions
 Clone the repository

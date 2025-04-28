@@ -386,8 +386,8 @@ CreditCardDetailsDao creditCardDetailsDao =context.getBean(CreditCardDetailsDao.
         <div class="container text-center">
         <p style="font-size:23px;">
             <b>
-                <img src="resources/images/phone.png" style="width:27px;" alt="img">+91 8767663594 / +91 7845961032<br>
-                <img src="resources/images/mail.png" style="width:29px;" alt="img">mjmuradali31@gmail.com
+                <img src="resources/images/phone.png" style="width:27px;" alt="img">+91 XXXXX XXXXX / +91 XXXXX XXXXX<br>
+                <img src="resources/images/mail.png" style="width:29px;" alt="img">lavanya.ankisetty@gmail.com
             </b>
         </p>
         </div>

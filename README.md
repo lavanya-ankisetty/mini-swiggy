@@ -1,5 +1,5 @@
 # mini-swiggy
-![Uploading mini-swiggy-home.png…]()
+![Home Page](mini-swiggy-home.png)
 
 🍕 Online Food Ordering Website
 An interactive and responsive online food ordering platform built using Spring Boot (Java) for backend services and HTML, CSS, JavaScript for the frontend. This project provides a seamless experience for customers to browse food items, search, and place their orders online.

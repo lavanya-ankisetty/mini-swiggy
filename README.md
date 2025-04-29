@@ -72,9 +72,9 @@ This project is licensed under the MIT License.
 🙋‍♀️ Author
 Lavanya Ankisetty
 
-LinkedIn
+LinkedIn: https://in.linkedin.com/in/lavanya-ankisetty-0587b1351
 
 GitHub: @lavanya-ankisetty
 
 📌 Note: This repository currently includes only the Java and JSP files.
-If you need the full project (including static resources and configurations), feel free to reach out at: lavanya.ankisetty@gmail.com
+If you need the full project (including static resources and configurations), feel free to reach out me at: lavanya.ankisetty@gmail.com
